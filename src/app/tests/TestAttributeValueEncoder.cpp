@@ -34,7 +34,7 @@ using namespace chip::TLV;
 
 namespace {
 
-// These values are rasier to be recognized in the encoded buffer
+// These values are easier to be recognized in the encoded buffer
 constexpr EndpointId kRandomEndpointId   = 0x55;
 constexpr ClusterId kRandomClusterId     = 0xaa;
 constexpr AttributeId kRandomAttributeId = 0xcc;
